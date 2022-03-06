@@ -7,5 +7,6 @@ public class HelloGIt {
         System.out.println("添加分支dev");
         System.out.println("master在第8行添加一行代码");
         System.out.println("dev在第8行添加一行代码");
+        System.out.println("非本地添加一个文件之后");
     }
 }

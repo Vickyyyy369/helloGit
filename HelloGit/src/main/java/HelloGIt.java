@@ -5,5 +5,6 @@
 public class HelloGIt {
     public static void main(String[] args) {
         System.out.println("添加分支dev");
+        System.out.println("dev在第8行添加一行代码");
     }
 }
